@@ -1,0 +1,15 @@
+/Users/edsonrodrigues/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.deps.json
+/Users/edsonrodrigues/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.runtimeconfig.json
+/Users/edsonrodrigues/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.runtimeconfig.dev.json
+/Users/edsonrodrigues/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.dll
+/Users/edsonrodrigues/DIO/DIO.bank/bin/Debug/net5.0/ref/DIO.bank.dll
+/Users/edsonrodrigues/DIO/DIO.bank/bin/Debug/net5.0/DIO.bank.pdb
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.csproj.AssemblyReference.cache
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.AssemblyInfoInputs.cache
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.AssemblyInfo.cs
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.csproj.CoreCompileInputs.cache
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.dll
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/ref/DIO.bank.dll
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.pdb
+/Users/edsonrodrigues/DIO/DIO.bank/obj/Debug/net5.0/DIO.bank.genruntimeconfig.cache
